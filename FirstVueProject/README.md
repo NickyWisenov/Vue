@@ -2,6 +2,9 @@
 
 > A Vue.js project
 
+Hello, Guys.
+I know you are excellent in programming with Vue.js but this would help you promote your skills.
+
 ## Build Setup
 
 ``` bash
