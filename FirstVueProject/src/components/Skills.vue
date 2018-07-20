@@ -22,6 +22,9 @@
     <p v-if="skills.length >= 1">You have more than 1 skill</p>
     <p v-else>You have less than or equal to 1 skill</p>
   </div>
+  <div>
+    <h1>First Task for the complement</h1>
+  </div>
 </div>
 </template>
 
